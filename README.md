@@ -8,4 +8,5 @@ As an aspiring Cybersecurity Professional I’m currently deep-diving into the w
 I am currently focused on bridging the gap between my academic studies and real-world application by refining my skills in automation and infrastructure security.
 
 ## Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d416765-7255-4b0d-ba5b-63548825b2fc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white)]https://www.credly.com/badges/6d416765-7255-4b0d-ba5b-63548825b2fc/public_url
