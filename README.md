@@ -1,7 +1,7 @@
 ## Hi there, I'm Ben! 👋
 
 
-**ben-holomah/ben-holomah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology, network security track, student at Towson University with a strong interest in Cybersecurity
 
 Here are some ideas to get you started:
 
