@@ -7,4 +7,4 @@ As an aspiring Cybersecurity Professional I’m currently deep-diving into the w
 
 I am currently focused on bridging the gap between my academic studies and real-world application by refining my skills in automation and infrastructure security.
 
-##Certifications
+## Certifications
